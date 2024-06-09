@@ -1,6 +1,9 @@
+using namespace std;
 int main()
 {
-	std:: cout << "Hello world!!!" << std:: endl;
+	cout << "Hello world!!!" << endl;
+	cout << "added namespace std! Enjoy!" << endl;
+	cout << "Programming code..." << endl;
 	return 0;
 }
 
